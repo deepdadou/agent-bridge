@@ -6,6 +6,10 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![OpenClaw Compatible](https://img.shields.io/badge/OpenClaw-compatible-green)](https://github.com/openclaw/openclaw)
 [![Hermes Compatible](https://img.shields.io/badge/Hermes-compatible-purple)](https://github.com/NousResearch/Hermes-Agent)
+[![GitHub Stars](https://img.shields.io/github/stars/deepdadou/agent-bridge?style=flat-square)](https://github.com/deepdadou/agent-bridge/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/deepdadou/agent-bridge?style=flat-square)](https://github.com/deepdadou/agent-bridge/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/deepdadou/agent-bridge?style=flat-square)](https://github.com/deepdadou/agent-bridge/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/deepdadou/agent-bridge?style=flat-square)](https://github.com/deepdadou/agent-bridge/commits/main)
 
 ---
 
